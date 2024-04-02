@@ -1,0 +1,44 @@
+	body{
+	font-family: Candara;
+	background-color: #eee;
+		}
+	p{
+		margin-left : 10%;
+		margin-right : 10%;
+		color: gray;
+	}		
+	.main{
+	border: 1px solid #cfcfcf;
+	height: 400px;
+	width: 250px;
+	padding: 10px;
+	margin: 10px;
+	float: left;
+	text-align: center;
+	}
+	.main:hover {
+	border: 5px solid #5cb85c;
+	padding: 8px;
+	margin: 8px;
+	}
+	#course_name{
+		color: #37B6FF;
+		font-size: 30px;
+	}
+	#fees{
+		color: green;
+
+	}
+	#old_fee{
+		color: red;
+	}
+	#duration{
+		color: #50565A;
+		font-size: 15px;
+	}
+	#title{
+		font-size: 40px;
+		text-align: center;
+		color: #37B6FF;
+		text-shadow: 0px 4px 1px grey;
+	}

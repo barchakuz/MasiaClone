@@ -1,0 +1,102 @@
+body{
+font-family: Candara;
+}
+.box{
+	border: 1px solid #cfcfcf;
+	height: 400px;
+	width: 250px;
+	padding: 10px;
+	margin: 10px;
+	float: left;
+	text-align: center;
+}
+.box:hover {
+	border: 5px solid #5cb85c;
+	padding: 8px;
+	margin: 8px;
+}
+.applicant_pic{height: 200px;
+			width: 200px;
+			border-radius: 50%;
+		}
+.box{
+			border: 1px solid #cfcfcf;
+			height: 400px;
+			width: 250px;
+			margin: 10px;
+			padding: 10px;
+			float: left;
+			text-align: center;
+			background-color: white;
+	}
+.box:hover {
+			border: 5px solid #5cb85c;
+			padding: 8px;
+			margin: 8px;
+	}
+body{
+			font-family: Candara;
+			background-color: #eee;		
+	}
+.box1{
+			margin-left: 5%;
+			margin-right: 5%;
+	}
+.img-1{
+	width: 130px;
+	height: 130px;
+}
+.alumn1{
+	float: left;
+	width: 300px;
+	background-color: none;
+	float: left;
+	padding: 10px;
+	height: 620px;
+	border: 0.1px solid grey;
+	background-color: white;
+ }
+ .alumn2{
+ 	width: 300px;
+	padding: 10px;
+	height: 620px;
+	background-color: none;
+	float: right;
+	margin-left: 20px;
+	border: 0.1px solid grey;
+	background-color: white;
+ }
+ .alumn3{
+	width: 300px;
+	padding: 10px;
+	height: 620px;
+	background-color: none;
+	float: right;
+	margin-left: 20px;
+	border: 0.1px solid grey;
+	background-color: white;
+}
+.alumn4{
+	background-color: white;
+	width: 300px;
+	padding: 10px;
+	height: 620px;
+	background-color: none;
+	float: right;
+	margin-left: 10px;
+	border: 0.1px solid grey;
+
+
+}	
+#txt_1{
+	width: 350px;
+	font-size: 40px;
+	margin-left: 40%;
+	color: red;
+}
+#txt{
+	width: 350px;
+	font-size: 40px;
+	margin-left: 40%;
+	color: red;
+}

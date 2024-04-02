@@ -1,0 +1,24 @@
+
+#tiltle_main_contact{
+	color: red;
+	text-align: center;
+}
+.mini_title_contact{
+	color: #28A2F7;
+	text-align: center;
+	font-size: 35px;
+}
+p, ul li{
+	margin-left: 10%;
+	margin-right: 10%;
+	color: grey;
+}
+#hq{
+	border: 5px solid #5cb85c;
+	height: 250px;
+	width: 300px;
+}
+#img_div, #src_div{
+	float: left;
+	padding-left: 150px;
+}

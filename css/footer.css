@@ -1,0 +1,36 @@
+
+footer{
+	font-family: Candara;
+	font-weight: light;
+	background-color: #2A2727;
+}
+.phone , .email , .address {
+	float: left;
+	padding-top: 30px;
+	padding-left:190px;
+}
+.title{
+	color: white;
+}
+h5{
+	color: white;
+}
+.bottom_nav{
+	padding-left: 20px;
+	padding-right: 20px;
+	text-decoration: none;
+}
+
+.last{
+	padding-bottom: 10px;
+}
+#special_p{
+	color: #FF8103;
+}
+#special_p_s{
+	color: white;
+}
+img{
+	height: 25px;
+	width: 25px;
+}

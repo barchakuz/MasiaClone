@@ -1,0 +1,54 @@
+header{
+	width: 100%;
+	height: 190px;	
+	font-family: Candara;
+	border : none;
+	background-color : white;
+	margin-top: -0.5%;
+	margin-left: -0.5%;
+}
+#logo{
+	width : 150px;
+	height : 150px;
+}
+.title_logo {
+	width: 150px;
+	height : 150px;
+}
+.title_logo , .title_text{
+	float : left;
+}
+.title_text{
+	padding-top: 40px;
+}
+.title1 , .title2{
+	float: left;
+}
+.title2{
+	margin-top: 60px;
+	font-size: 20px;
+	color: #6f7777; 
+}
+.title_nav{
+	height: 50px;
+	float: right;
+	margin-right: 50px;
+	}
+.top_nav{
+	margin-right: 10px;
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin:0%;
+	text-decoration: none;
+	background-color: #D03535;
+	color: white;
+}
+.top_nav:hover{
+	border-top: 2px solid #D03535;
+	background-color: #c9cfd8;
+	color: black;
+}
+body{
+	width: 100%;
+}
